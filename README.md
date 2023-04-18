@@ -46,6 +46,6 @@ Aqui vem um passo a passo para abrir e rodar o projeto.
 
 ## 📚 Mais informações do curso
 
-Escola Alura
-Curso HTML e CSS: praticando HTML/CSS
-Instrutora: Monica Hillman
+- Escola Alura
+- Curso HTML e CSS: praticando HTML/CSS
+- Instrutora: Monica Hillman
